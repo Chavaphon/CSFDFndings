@@ -1,5 +1,24 @@
 Living101:
-Travelling
-Food
-Apartment/Dormitory
-Scholarships
+    Travelling:
+        Maps&Directions:
+            https://www.kmutt.ac.th/en/map-directions/
+        KMUTT's bus:
+            https://bgm.kmutt.ac.th/view.php?page=service&id=24
+            https://app.ibgm.cloud
+    Food:
+        KFC/HorYing/HorChai:
+            https://www.kmutt.ac.th/en/education/kmutt-life/
+
+    Apartment/Dormitory:
+        หอในโดยเฉพาะ คุณได้รับคำเชิญให้เข้าร่วม ”DormCareF“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
+            https://line.me/ti/g2/95Z1yysibkj-JeHBx5L5aIPhv5Y_1ms9V31gfw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+        หอทั่วไป  คุณได้รับคำเชิญให้เข้าร่วม ”หาเมท-หาห้อง มจธ.“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
+            https://line.me/ti/g2/sVBzzkfLeIKaXzFHdedCa0870yOdYBnrO03GsQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+        Renthub
+
+    Scholarships:
+        Scholarships:
+            https://iadmission.kmutt.ac.th/afford/scholarship
+        ExchangePrograms:
+            https://www.kmutt.ac.th/internationalization/mobility-program/exchange-programs/
+            https://interkmutt.notion.site/KMUTT-International-Affairs-Office-IA-d0e5e3af9259496d8803610a2248d017#5dd0e181d14f4a63b156d71bf80eeeb6
