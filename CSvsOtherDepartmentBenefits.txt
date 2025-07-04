@@ -1,16 +1,17 @@
 CS vs Other department benefits:
     Computer Science:
         Facility:
-            access to Library for studying + access to faculty's learning space/ study room
+            - Free access to the Library for studying + access to the faculty's learning space/ study room, such as CB2 (3rd floor) 
         Equipment:
-            access to KMUTT's internet + access to faculty's internet
-            able to register for borrowing laptops for a whole semester + access to laptops when participating in certain lecture
+            - Free access to KMUTT's internet, plus access to faculty's internet (SIT-SECURE) 
+            - Able to register for borrowing laptops for a whole semester, plus access to laptops when participating in certain lectures
+            - Free licensed Microsoft 365 (including MS Teams) for coursework and self-study
 
     Other faculty:
         Facility:
-            access to Library for studying
+            - Access to the Library for studying
         Equipment:
-            access to KMUTT's internet
-            able to register for borrowing laptops for a whole semester
+            - Access to KMUTT's internet
+            - Able to register for borrowing laptops for a whole semester
 References:
     https://www.lib.kmutt.ac.th/en/newsletter/%F0%9F%92%BB-borrowing-a-notebook-for-bachelor-degree/
