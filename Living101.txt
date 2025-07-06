@@ -1,48 +1,90 @@
 Living101:
     Travelling:
         Maps&Directions:
-            
+            Bus:
+                Buses that pass the university (Pracha Uthit road):
+                    #75 Route of Wat Buddhabucha-Hua Lamphong
+                    #21 Route of Wat Koo Sang – Chulalongkorn University
+                Buses that can reach the university (many bus lines Can arrive at the university By having to come down to Suksawat Road – Rat Burana Road And boarding the bus that passes through the university or a small bus)
+                    #142 Route of Thonburi Community Housing – Crocodile Farm Garage (Samut Prakan)
+                    #141 Route of Samae Dam – Chulalongkorn University
+                    #140 Route of Victory Monument-Samae Dam
+                    #138 Route of Phra Pradaeng – Morchit Mai
+                    #82 Route of Phra Pradaeng – Sanam Luang
+                    #20 Route of Suksawat-Tha Din Daeng
+                    #6 Route of Phra Pradaeng – Thewet
+            Local bus:
+                #99 Route of Bang Pakok-Thung Khru
+                #90 Route of Bang Pakok Market – Thung Khru Temple
+                #88 Route of Big C (Bang Pakok) – Thung Khru
+                #77 Route of Big C (Rat Burana) – Phutthabucha Temple
+            BTS Sky train:
+                Wongwian Yai Station, exit 2 Then take bus number 120, line 57 to Dao Khong and then take bus number 75, line 21 which passes in front of the university
         KMUTT's bus:
             
     Food:
         KFC:
-        Hor Ying:
-        Hor Chai:
+            S14 building, large canteen with serveral food shops
+        Hor Ying (female dormitory):
+            S5 dining area under the female dormitory building with serveral food shops and a convenience store (7-11)
+        Hor Chai (male dormitory):
+            S6 dining are under the male dormitory with serveral food shops
         Market:
-        Outside of University:     
 
+        Outside of University:
+            Opposite of the university's entrance:
+                Burger King
+                Bonchon
+                Cafe Amazon
+                ...
+            Left of the university's entrance:
+                Diary queen
+                A Ramen
+                ...
+            Behind the university's (back entrance, near KFC):
+                Susco (KFC (Kentucky Fried Chicken), Tee noi, etc.)
+                ...
     Apartment/Dormitory:
         KMUTT's dormitory:
+            Either Female dormitory or Male dormitory (join line open chat for more information)
         Nearby dormitory:
-        
+            Recommend to use "Renthub" or join line open chat group
+        *How to join line open chat:
+            search up on Facebook "KMUTT dormitory"
     Scholarships:
         Before becoming undergraduate:
+            ทุนการศึกษาเพชรพระจอมเกล้า ดุษฎีบัณฑิต
+            ทุนการศึกษาจัดตั้งขึ้น เพื่อจูงใจให้นักศึกษาทุ่มเทเวลาให้กับการศึกษาในระดับปริญญาเอกและเสริมสร้างประสบการณ์การทํางานวิจัยและพัฒนาอย่างต่อเนื่องภายใต้การดูแลของคณาจารย์ หรือกลุ่มวิจัยที่มีประสบการณ์ในการทําวิจัยที่สูงเพื่อพัฒนาตนเองให้เป็นดุษฎีบัณฑิตคุณภาพที่จะเป็นกําลังสําคัญในการขับเคลื่อนและผลิตผลงานวิจัยหรือปฏิบัติงานที่ใช้ความรู้และทักษะขั้นสูงที่เป็นประโยชน์ต่อสังคมและเศรษฐกิจของประเทศ
         After becoming undergraduate:
-        
+
+        For International students:
+
+
     ExchangePrograms:
             
 
-    References:
-        Travelling:
-            Maps&Directions:
-                https://www.kmutt.ac.th/en/map-directions/
-            KMUTT's bus:
-                https://bgm.kmutt.ac.th/view.php?page=service&id=24
-                https://app.ibgm.cloud
+References:
+    Travelling:
+        Maps&Directions:
+            https://www.kmutt.ac.th/en/map-directions/
+        KMUTT's bus:
+            https://bgm.kmutt.ac.th/view.php?page=service&id=24
+            https://app.ibgm.cloud
 
-        Food:
-            KFC/HorYing/HorChai:
-                https://www.kmutt.ac.th/en/education/kmutt-life/
+    Food:
+        KFC/HorYing/HorChai:
+            https://www.kmutt.ac.th/en/education/kmutt-life/
 
-        Apartment/Dormitory:
-            หอในโดยเฉพาะ คุณได้รับคำเชิญให้เข้าร่วม ”DormCareF“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
-                https://line.me/ti/g2/95Z1yysibkj-JeHBx5L5aIPhv5Y_1ms9V31gfw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
-            หอทั่วไป  คุณได้รับคำเชิญให้เข้าร่วม ”หาเมท-หาห้อง มจธ.“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
-                https://line.me/ti/g2/sVBzzkfLeIKaXzFHdedCa0870yOdYBnrO03GsQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
-            Renthub
-                https://www.renthub.in.th/en
+    Apartment/Dormitory:
+        หอในโดยเฉพาะ คุณได้รับคำเชิญให้เข้าร่วม ”DormCareF“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
+            https://line.me/ti/g2/95Z1yysibkj-JeHBx5L5aIPhv5Y_1ms9V31gfw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+        หอทั่วไป  คุณได้รับคำเชิญให้เข้าร่วม ”หาเมท-หาห้อง มจธ.“ โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
+            https://line.me/ti/g2/sVBzzkfLeIKaXzFHdedCa0870yOdYBnrO03GsQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+        Renthub
+            https://www.renthub.in.th/en
 
-        Scholarships:
-            https://www.kmutt.ac.th/sfa/list-scholarships/
-        ExchangePrograms:
-            https://interkmutt.notion.site/KMUTT-International-Affairs-Office-IA-d0e5e3af9259496d8803610a2248d017#5dd0e181d14f4a63b156d71bf80eeeb6
+    Scholarships:
+        https://www.kmutt.ac.th/sfa/list-scholarships/
+    ExchangePrograms:
+        https://interkmutt.notion.site/KMUTT-International-Affairs-Office-IA-d0e5e3af9259496d8803610a2248d017#5dd0e181d14f4a63b156d71bf80eeeb6
+        
